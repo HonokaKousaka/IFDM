@@ -49,3 +49,20 @@ python individual_max_min.py
 python individual_max_sum.py
 python individual_sum_min.py
 ```
+
+## Citation
+If you have used the paper, please give my repository a star, and cite as:
+```python
+@inproceedings{NEURIPS2025_ead8e195,
+ author = {Li, Ruien and Wang, Yanhao},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {D. Belgrave and C. Zhang and H. Lin and R. Pascanu and P. Koniusz and M. Ghassemi and N. Chen},
+ pages = {160253--160278},
+ publisher = {Curran Associates, Inc.},
+ title = {Individually Fair Diversity Maximization},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2025/file/ead8e195df586b9e7c10fcd114a6b9d1-Paper-Conference.pdf},
+ volume = {38},
+ year = {2025}
+}
+
+```
